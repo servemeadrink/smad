@@ -1,0 +1,17 @@
+body
+{
+    background-color: grey;
+}
+
+#log
+{
+    background-color: white;
+    border-radius: 10px;
+    border: 1px black solid;
+}
+
+#content
+{
+    padding-top: 60px;
+    background-color: white;
+}
